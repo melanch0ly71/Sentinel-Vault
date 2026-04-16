@@ -1,0 +1,6 @@
+**Requirements**
+
+1. cryptography (pip install cryptography)
+2. bcrypt (pip install bcrypt)
+3. customtkinter (pip install tkinter)
+ 

@@ -1,0 +1,5 @@
+Run SentinelVault.exe to start the application. 
+
+Note : Windows Defender may flag this as a threat due to its encryption and file-deletion capabilties (Heuristic detection). 
+
+This is expected behavior for a security tool.
